@@ -1,6 +1,6 @@
 # EPQ: Artificial Intelligence — Ethics & Regulation
 
-**Extended Project Qualification (Level 3) · A-grade**
+**Extended Project Qualification (Level 3)**
 
 > *"Artificial Intelligence: the ethical challenges that it presents and how Governments have and should approach its regulation?"*
 
